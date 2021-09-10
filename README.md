@@ -1,11 +1,11 @@
-# iFood Data Engineering Test
+# Data Engineering Test
 
 ## 1st Case: ETL, Governance and API development
 
 This test is not only a single test but a series of them in order to assess different skills that are valuable to our team.
 Target audience: everyone looking for a spot at iFood's (Data Engineering) table.
 
-At iFood, Data Engineers are encouraged to look up any tool that might help solve any challenge. Therefore, use whatever language, storage and tools you feel comfortable with. Also, briefly elaborate on your decisions.
+Data Engineers are encouraged to look up any tool that might help solve any challenge. Therefore, use whatever language, storage and tools you feel comfortable with. Also, briefly elaborate on your decisions.
 
 So, without further ado, let's get started!
 
